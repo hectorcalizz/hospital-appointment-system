@@ -1,0 +1,28 @@
+h2 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 900;
+    color: rgb(255, 160, 97);
+
+}
+
+.title {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    font-weight: 500;
+    font-style: italic;
+}
+
+.description{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-style: italic;
+
+}
+
+.note {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: 1000;
+    font-style: italic;
+    color: aaa;
+}
